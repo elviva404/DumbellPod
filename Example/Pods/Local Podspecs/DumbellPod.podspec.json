@@ -1,0 +1,22 @@
+{
+  "name": "DumbellPod",
+  "version": "0.1.0",
+  "summary": "A short description of DumbellPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/33577593/DumbellPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "33577593": "elikem@menaget.com"
+  },
+  "source": {
+    "git": "https://github.com/33577593/DumbellPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DumbellPod/Classes/**/*"
+}
