@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DumbellPod_Tests' do
+  pod 'DumbellPod', :path => '../'
+  
+  
+end
